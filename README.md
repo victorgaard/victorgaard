@@ -1,5 +1,4 @@
-### Hi there 👋
-
+#### Product & Frontend Engineer with a strong UX and entrepreneurial background. Former Product Designer.
 <p>
   <samp>
     <a href="https://victorsantos.work" target="_blank">me</a> .
